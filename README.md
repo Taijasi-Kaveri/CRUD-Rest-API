@@ -33,9 +33,6 @@ npm start
 
 The API should now be running on http://localhost:5000.
 
-## Usage
-Describe how users can use your API here. Provide code examples, explanations, and usage scenarios. You can also include any important details about authentication, request/response formats, or any other specific instructions.
-
 ## API Endpoints
 ![api image](https://github.com/Taijasi-Kaveri/CRUD-Rest-API/assets/52359546/efcf7c26-b503-44fd-a42f-1c05a39c8401)
 
@@ -44,6 +41,11 @@ To test the API endpoints using Postman, follow these steps:
 
 1. Use Postman to send requests to the API endpoints and observe the responses.
 
+https://github.com/Taijasi-Kaveri/CRUD-Rest-API/assets/52359546/6caedc04-a13d-427e-86fd-6dfcfaf7426a
+
+## Future Advancements
+* Implement MySQL for real time databases (In Progress).
+  
 ## Contributing
 If you'd like to contribute to this project, please follow these guidelines:
 
